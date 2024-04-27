@@ -1,4 +1,4 @@
-**Privacy Policy**
+** AI Chef's Book Privacy Policy**
 
 This privacy policy applies to the AI Chef's Book app (hereby referred to as "Application") for mobile devices that was created by Baki Ucan (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
 
